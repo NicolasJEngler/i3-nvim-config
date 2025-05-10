@@ -1,0 +1,10 @@
+/*******************************************************
+ * ROFI configs i3 keyhint-menu for EndeavourOS
+ * Maintainer: joekamprad [joekamprad //a_t// endeavouros.com]
+ *******************************************************/
+
+// This is an incomplete rofi keyhint config file, mostly intended to keep a record for myself of where font families should be updated and which font families I was using
+
+configuration {
+    font:                "UbuntuMono Nerd Font Regular 11";
+}
